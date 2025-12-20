@@ -1,0 +1,127 @@
+ 		Chapter 1: An Overview Of The Internet And The Web
+
+
+GROUP A 
+
+1. Define the term Protocol in the context of the Internet.
+- A protocol is a set of digital rules that decide how data moves between devices. If we didn't have protocols, computers from different companies wouldn't be able to communicate with each other. For example: HTTP is the specific set of rules used when sending web pages.
+
+
+2. What is the primary difference between a Web Browser and a Search Engine?
+- The primary difference between a Web browser and a Search Engine is:
+
+. Web browser is a software application installed on a device. Its job is to retrieve and display web pages by reading HTML codes. Example : Google Chrome, Firefox, etc.
+
+. Search engine is a website or service accessed through a browser. Its job is to maintain a massive index of the web so you can find specific information. Example: Google map which we use to find out where we want to go.
+
+
+3. Define the World Wide Web (WWW).
+- The World Wide Web is a global collection of interconnected documents and resources, linked together by hyperlinks and URLs. While people often use "Internet" and "Web" equivalently, they aren't the same. If the Internet is the physical infrastructure, the WWW is the massive collection of "houses" and "shops" that you visit using those roads.
+
+
+4. Distinguish between a static web page and a dynamic web page.
+-Difference between a static web page and a dynamic web page is 
+
+. Static web page are the simplest types of pages. The content is "fixed" in a flat file and looks exactly the same to every visitor. They are fast but not interactive.
+
+.Dynamic web page is a website component that generates unique, real-time content for each visitor, changing based on user interaction, location, time, or data from a database. 
+
+
+
+GROUP B
+
+
+5. Explain the Client-Server Architecture of the web.
+- The Client-Server Architecture is the fundamental model that allows the web to function. It describes a relationship where tasks are distributed between the provider of a resource (the Server) and the service requester (the Client).
+
+The client initiates a request for information. Example: An Email App (like Outlook or Apple Mail). When you hit "Send," the client pushes your message to the server.
+
+The Server, the Mail Server (like Gmail’s servers). It acts as a digital post office, receiving your message, storing it, and then delivering it to the recipient's "client" when they log in to check their mail.
+
+
+6. Describe the functions of the following Internet services: Email, FTP, and VoIP.
+
+- Email (Electronic Mail): This is one of the oldest and most widely used services. It allows for the asynchronous exchange of digital messages. It uses protocols like SMTP to send mail and POP3/IMAP to receive it. Its primary function is formal and informal communication, allowing for attachments like documents and images.
+
+- FTP (File Transfer Protocol): While you can download things via a browser, FTP is a dedicated service for moving large files between a client and a server. It is commonly used by developers to upload website files to a hosting server or to share large datasets that are too big for email.
+
+
+- VoIP (Voice over Internet Protocol): This technology allows you to make voice and video calls using the internet rather than traditional phone lines. By converting your voice into digital data packets, services like WhatsApp, Zoom, and Skype allow for high-quality, real-time communication across the globe at a fraction of the cost of old-school telephony.
+
+
+7. The Internet is a network of networks.” Elaborate on this statement explaining how packet switching works.
+- The Internet isn't one single entity; it is a global web of millions of smaller private, public, academic, business, and government networks linked by a broad array of electronic, wireless, and optical networking technologies.
+
+To move data across this "network of networks," we use Packet Switching:
+
+Fragmentation: Instead of sending a large file (like a photo) as one solid chunk, it is broken down into tiny pieces called packets.
+
+Addressing: Each packet is labeled with the sender's IP, the receiver's IP, and a sequence number.
+
+Routing: Packets travel independently across different routes. If one path is congested, a packet might take a different detour.
+
+Reassembly: Once all packets reach the destination, the receiving computer uses the sequence numbers to put them back together in the correct order.
+
+
+
+GROUP C
+
+
+8. A startup company wants to host a website that displays the same information to all visitors and requires very low maintenance costs. However, they are being advised to use a dynamic website. As a consultant, would you agree? Justify your answer.
+
+- As a consultant, I'd actually side with the startup's original idea to build a static website. I don't agree with the suggestion to go dynamic.
+
+Here's why:
+
+. Meets Their Needs: The startup made it clear they want a simple, low-maintenance site with the same info for everyone. A static site is ideal – think of it as a basic online brochure.
+
+. Saves Money: Static sites are way cheaper to host. You don't need fancy databases or servers doing a lot of work.
+
+. More Secure: With no database or complex code behind the scenes, static sites are way less open to hacks.
+
+. Faster Performance: Static pages load super quick because the server just sends the file straight out, instead of building the page each time someone visits.
+
+
+9. A user types www.google.com into their browser, but the browser displays a ”Server Not Found” error, even though the internet connection is active. However, accessing the site via 142.250.190.46 works. Diagnose the problem and explain the underlying technology that failed.
+
+- The Internet works on IP addresses (the numbers like 142.250.190.46), but humans prefer names (like www.google.com). The DNS acts like the "phonebook" of the internet, translating those names into numbers.
+
+Why it didn't work: The user can get to the site using the IP address, so the internet's working. But the browser can't find the right IP for https because it can't reach the DNS server.
+
+What could be wrong: Maybe the user’s internet provider is having DNS problems, the DNS data on their computer is messed up, or their settings are pointing to the wrong DNS server.
+
+
+10. A multinational corporation wants to share sensitive inventory data with specific suppliers but does not want this information available to the general public. Explain which network
+type (Intranet, Extranet, or Internet) they should implement and why.
+
+- The corporation should implement an Extranet. It acts as a "middle ground" between a private internal network and the public internet. It allows the company to open specific digital doors to trusted outsiders (suppliers) while keeping the rest of the house locked.
+
+Reasons to use Extranet are:
+
+. Secure Access: An extranet makes sure only approved suppliers can access data by using things like usernames, passwords, and multi-step security. It's protected by a firewall, which keeps the shared supplier data separate from the company's super-private internal files.
+
+. Supply Chain Works Better, Faster: With an extranet, suppliers can keep an eye on inventory levels as they change. This helps them:
+
+1. Get Things Done Quicker: React right away to demand changes.
+
+2. Cut Down on Mistakes: Get rid of manual data entry (like spreadsheets sent in emails) and use one updated data source.
+
+. Teamwork, but keep things private: A big company usually has private info (like financial or employee data) that suppliers shouldn't see. An extranet lets you set detailed permissions. This suggests the business can set up the system so Supplier A only sees the inventory for their parts, and Supplier B sees something different.
+
+. Less Spending: It costs money to set up, but an extranet saves money in the long run by cutting out paper, reducing extra inventory, and decreasing the time spent on organizing things.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
