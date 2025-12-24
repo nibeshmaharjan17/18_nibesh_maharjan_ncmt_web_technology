@@ -42,10 +42,12 @@
 
 A website is never truly finished because of the following reasons: 
 . Security Evolution: Cyber threats are constantly evolving. The maintenance phase involves an iterative cycle of scanning for new vulnerabilities and applying patches to keep user data secure.
+
 . Content & SEO Freshness: To remain relevant to both users and search engines, content (news, prices, media) must be updated. This keeps the site from becoming an "archive" and ensures it remains a functional business tool.
+
 . Performance & Scalability: As a website's user base grows, the original infrastructure may struggle. Maintenance involves monitoring performance and iteratively optimizing code or database queries to handle increased traffic.
-. Adaptive Maintenance: Technology moves fast. Browsers (like Chrome or Firefox) and mobile devices release updates regularly. The site must be iteratively tested and adjusted to ensure compatibility with new hardware and software standards.
-. User Feedback & Enhancements: Once a site is live, real user data reveals how people actually use it. This feedback triggers new mini-development cycles to improve the   User Experience (UX) and add requested features**
+
+. Adaptive Maintenance: Browsersand mobile devices release updates regularly. The site must be iteratively tested and adjusted to ensure compatibility with new hardware and software standards.**
 
 
 ### 7. Describe the process of ”Information Gathering.” Why is understanding the target audience crucial during this step?
