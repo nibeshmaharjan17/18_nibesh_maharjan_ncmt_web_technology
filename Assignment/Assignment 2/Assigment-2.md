@@ -39,7 +39,7 @@
 
 ### 6. Explain the iterative nature of the Maintenance phase. Why is a website never truly ”finished”?
 **Answer: The Maintenance phase is a continuous loop rather than a final destination. In the software development lifecycle, a website is never truly "finished" because it exists in a dynamic environment that requires constant adaptation.
-<br>
+
 A website is never truly finished because of the following reasons: 
 . Security Evolution: Cyber threats are constantly evolving. The maintenance phase involves an iterative cycle of scanning for new vulnerabilities and applying patches to keep user data secure.
 . Content & SEO Freshness: To remain relevant to both users and search engines, content (news, prices, media) must be updated. This keeps the site from becoming an "archive" and ensures it remains a functional business tool.
