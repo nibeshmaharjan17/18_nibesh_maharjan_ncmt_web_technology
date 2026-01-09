@@ -6,7 +6,7 @@
 **Program:** BIT  
 **Date:** January 9, 2025
 
-##  CHAPTER 2: WEBSITE STRUCTURE DESIGN
+##  CHAPTER 3: WEBSITE STRUCTURE DESIGN
 
 ## Group A:
 
