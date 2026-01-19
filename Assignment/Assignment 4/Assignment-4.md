@@ -7,7 +7,8 @@
 
 ### 1. Differentiate between Legibility and Readability.
 
-Answer:
+Answer: Legibility refers to the ease with which someone can tell individual letters or characters apart in a font. This depends on the design of the font itself. Readability refers to how easily someone can understand the text as a whole. Layout, spacing, and how complex the writing is affect readability.
+
 
 ### 2. What is the ”Rule of Thirds” in layout design?
 
